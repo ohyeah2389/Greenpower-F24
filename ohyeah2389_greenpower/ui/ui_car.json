@@ -1,0 +1,40 @@
+{
+  "name": "Greenpower F24",
+  "brand": "Greenpower",
+  "description": "Greenpower is a STEM education program in which high school students and teachers design, build, and race small electric vehicles in endurance races. This is a Greenpower F24 kit car designed to be driven by kids from grades 6-12 (ages 11 to 18).",
+  "tags": [
+    "#Fabarth",
+    "rwd",
+    "sequential",
+    "race",
+    "singleseater",
+    "turbo",
+    "italy"
+  ],
+  "class": "race",
+  "specs": {
+    "bhp": "",
+    "torque": "2.5 Nm",
+    "weight": "81.55 kg",
+    "topspeed": "",
+    "acceleration": "",
+    "pwratio": "2.30kg/cv"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "country": "USA",
+  "year": 2017,
+  "author": "ohyeah2389",
+  "version": "0.1",
+  "url": null
+}

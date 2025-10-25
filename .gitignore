@@ -1,0 +1,24 @@
+# IDE/Editor files
+*.code-workspace
+
+# Image files
+*.dds
+*.jpg
+*.png
+*.svg
+
+# Assetto Corsa files
+*.bank
+*.kn5
+*.knh
+*.ksanim
+*.vao-patch
+
+# Archive files
+*.zip
+
+# Project directories
+/Art/
+/Releases/
+/Renders/
+/Reference/Solid Edge Model
