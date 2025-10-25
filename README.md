@@ -1,0 +1,2 @@
+# Greenpower F24
+This is an Assetto Corsa implementation of a Greenpower F24 kit car, a vehicle designed to be driven by kids from grades 6-12 (ages 11 to 18). Greenpower is a STEM education program in which high school students and teachers design, build, and race small electric vehicles in endurance races. 
